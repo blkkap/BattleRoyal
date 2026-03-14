@@ -1,5 +1,5 @@
 /*
- * J.Dovala
+
  * CSC205AA
  * Sept 23, 21
  * Battle Royale
